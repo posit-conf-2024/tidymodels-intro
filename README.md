@@ -1,7 +1,7 @@
 Introduction to tidymodels
 ================
 
-### posit::conf 2023
+### posit::conf(2024)
 
 by [Hannah Frick](https://www.frick.ws/) and [Simon Couch](https://www.simonpcouch.com/).
 
